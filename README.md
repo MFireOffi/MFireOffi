@@ -1,8 +1,8 @@
 - 👋 Hello, Moi c'est MFire
 - 👀 Je suis un passionné de discord mais plus particulierement des bots et du developpement.
-- 🌱 J'apprend le discord;py a l'heure actuelle.
-- 💞️ Si besoin d'aide ou de renseignement mp moi sur discord mfire.aliasgeek !
-- 📫 Je possede mon premier projet de bot discord PhoenixFire
+- 🌱 J'apprend le discord.py a l'heure actuelle.
+- 💞️ Si besoin d'aide ou de renseignement mp moi sur discord mfire.officiel !
+- 📫 ....
 - ⚡ Fun fact: J'adore les sport collectif et la gestion de personnelle ou de taches urgente.
 
 <!---
